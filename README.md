@@ -25,7 +25,7 @@ This page is where i document all the projects i am currently working on or thin
 8. Learn how to secure Apache2
 9. Learn how to securie Nginx
 
-_Motivation for some these projects are from Networkchuk and HackerSploit_
+_Motivation for some of these projects are from Networkchuk and HackerSploit_
 
 
 
