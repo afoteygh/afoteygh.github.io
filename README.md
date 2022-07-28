@@ -25,13 +25,12 @@ This page is where i document all the projects i am currently working on or thin
 8. Learn how to secure Apache2
 9. Learn how to securie Nginx
 
-_Motivation for some of these projects are from Networkchuk and HackerSploit_
 
 
 
 
 
-_I would love to change the world, but they won't give me the source code. -Anonymous_
+_Surveillance is the business model of the internet. -Bruce Schneier_
 
 
 
