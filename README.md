@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page
 
-This page is where i document all the projects i am currently working on or thinking about working on.. This site is also todo list for me just so that i can hold myself accountable. 
+This page is where i document all the projects i am currently working on or thinking about working on. This site is also todo list for me just so that i can hold myself accountable. 
 
 
 #Projects Completed
@@ -15,15 +15,7 @@ This page is where i document all the projects i am currently working on or thin
 
 
 #Upcoming Projects (I may document my experiences through video)
-1. Learn how to use Twitter for OSINT
-2. Learn how to use instagram for OSINT
-3. Learn how to find info on phone numbers using PhoneInfoga
-4. Learn how to find social media accounts using Sherlok
-5. Install 'Free' Cloud phone System using AWS and 3CX
-6. Learn how Secure Docker
-7. Learn how phypmyAdmin
-8. Learn how to secure Apache2
-9. Learn how to securie Nginx
+
 
 
 
